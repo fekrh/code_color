@@ -10,4 +10,13 @@ _ this will also be learing _
 * Writ right Code Custom Color
     * Warm
     *colud
-    
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+I think you should use an
+`<addr>` element here instead.
+
