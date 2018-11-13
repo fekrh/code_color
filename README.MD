@@ -3,8 +3,11 @@
 
 **How to keep first color light and Dark**
 _ this will also be learing _
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  
+* choose Color
+* Custom Own Color
+  * Light Color
+  * Dark Color
+* Writ right Code Custom Color
+    * Warm
+    *colud
+    
